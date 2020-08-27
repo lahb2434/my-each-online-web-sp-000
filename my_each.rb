@@ -7,7 +7,7 @@ def my_each(array)
   array
 end
 
-my_each(array)
+my_each(123)
 
 my_each(array) do |x| 
   return x 
